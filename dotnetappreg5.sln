@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "dotnetappreg5", "dotnetappreg5\dotnetappreg5.deployproj", "{0001ED3B-C184-49D7-BBB4-8436D6F26847}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnetappv5", "dotnetappv5\dotnetappv5.csproj", "{4175E3E2-5E9E-4479-AAA6-E5258578D909}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0001ED3B-C184-49D7-BBB4-8436D6F26847}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0001ED3B-C184-49D7-BBB4-8436D6F26847}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0001ED3B-C184-49D7-BBB4-8436D6F26847}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0001ED3B-C184-49D7-BBB4-8436D6F26847}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4175E3E2-5E9E-4479-AAA6-E5258578D909}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4175E3E2-5E9E-4479-AAA6-E5258578D909}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4175E3E2-5E9E-4479-AAA6-E5258578D909}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4175E3E2-5E9E-4479-AAA6-E5258578D909}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89E3EAEB-3FA4-43B8-AC6D-DC19787A5A6A}
+	EndGlobalSection
+EndGlobal
